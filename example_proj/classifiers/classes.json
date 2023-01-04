@@ -1,0 +1,12 @@
+{
+  "pathClasses": [
+    {
+      "name": "Positive",
+      "color": -377282
+    },
+    {
+      "name": "Negative",
+      "color": -9408287
+    }
+  ]
+}
